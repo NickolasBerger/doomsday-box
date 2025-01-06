@@ -25,3 +25,9 @@ This is a reproduction/redo of the Raspberry Pi Recovery Kit, https://www.dosche
 - solar power adapter with portable battery
 - fit into pelican case
 
+
+## Appendix
+
+Readme built with https://readme.so/editor
+
+
